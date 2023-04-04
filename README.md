@@ -1,1 +1,3 @@
-# 2023-04-04-pivot-points
+# Pivot Points
+
+The notebook from my video on pivot points
